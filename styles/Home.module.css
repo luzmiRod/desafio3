@@ -1,6 +1,6 @@
 .container {
   padding: 0 2rem;
-  background-color:darkgrey;
+  background-image: linear-gradient(pink, gray, white, gray, pink);
 }
 
 .main {
@@ -110,8 +110,8 @@
   border-radius: 10px;
   transition: color 0.15s ease, border-color 0.15s ease;
   max-width: 300px;
-  border: 1px solid red;
-  background-color: beige;
+  border: 1px solid black;
+  background-image: linear-gradient(green, gray, white);
 }
 .boton{
   margin-top: 10px;
