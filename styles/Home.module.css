@@ -1,5 +1,8 @@
 .container {
-  padding: 0 2rem;
+  height: 600px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
   background-image: linear-gradient(pink, gray, white, gray, pink);
 }
 
